@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksa Bubanja</h1>
 <h3 align="center">I am an ambitious frontend developer who is thirst for knowledge. I'm currently looking for an opportunity to work in an environment that will help me progress</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeko10" alt="jeko10" /></a> </p>
-
 - 🔭 I’m currently working on [NBA-Information with React-Typescript](https://github.com/JEKO10/NBA-Information)
 
 <h3 align="left">Connect with me:</h3>
