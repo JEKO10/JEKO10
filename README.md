@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksa Bubanja</h1>
-<h3 align="center">I am an ambitious frontend developer who is thirst for knowledge. I'm currently looking for an opportunity to work in an environment that will help me progress</h3>
+<h3 align="center">I am an ambitious frontend developer who is thirst for knowledge. I work hard to achieve my goals and I love to learn. I'm currently looking for an opportunity to work in an environment that will help me progress.</h3>
 
 - 🔭 I’m currently working on [NBA-Information with React-Typescript](https://github.com/JEKO10/NBA-Information)
 
