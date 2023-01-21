@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aleksa bubanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa bubanja" height="30" width="40" /></a>
-<a href="https://twitter.com/aleksa3b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleksa3b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jeko10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jeko10" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aleksa-bubanja/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa bubanja" height="30" width="40" /></a>
+<a href="https://twitter.com/aleksa3b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aleksa3b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16413657/jeko10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jeko10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
