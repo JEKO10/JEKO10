@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aleksa3b@gmail.com**
 
-- 📄 My [https://drive.google.com/file/d/1sIKMc7vnMqcYOyWxKgLbIQjIAShQdMrR/view](https://drive.google.com/file/d/1sIKMc7vnMqcYOyWxKgLbIQjIAShQdMrR/view)
+- 📄 My resume [https://drive.google.com/file/d/1sIKMc7vnMqcYOyWxKgLbIQjIAShQdMrR/view](https://drive.google.com/file/d/1sIKMc7vnMqcYOyWxKgLbIQjIAShQdMrR/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
