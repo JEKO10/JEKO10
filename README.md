@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Movie app built with Sass/React-TypeScript and Redux toolkit](https://github.com/JEKO10/Moviexd)
 
-- 🌱 I’m currently learning **Jest, Bootstrap**
+- 🌱 I’m currently learning **NextJS, Jest, Bootstrap**
 
 - 📫 How to reach me **aleksa3b@gmail.com**
 
