@@ -3,14 +3,6 @@
 
 - 🌐 [My portfolio website](https://aleksa-bubanja.netlify.app/) - I am making new, better one :)
 
-- 🔭 I’m currently working on [Moviexd (React-TypeScript, Redux toolkit)](https://github.com/JEKO10/Moviexd)
-
-- 🌱 I’m currently learning **NextJS, Jest, Bootstrap**
-
-- 📫 How to reach me **aleksa3b@gmail.com**
-
-- 📄 You can find [my resume here](https://drive.google.com/file/d/1bcAaFeL2SLRz0EjrsIJmJKKK3-9_V59I/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aleksa-bubanja/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa bubanja" height="30" width="40" /></a>
