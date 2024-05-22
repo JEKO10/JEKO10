@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aleksa Bubanja</h1>
-<h3 align="center">I am an ambitious front-end developer who is curious about new knowledge. I work hard to achieve my goals and I love to learn. I'm currently looking for an opportunity to work in an environment that will help me progress.</h3>
 
 - 🌐 [My portfolio website](https://aleksa-bubanja.netlify.app/) - I am making new, better one :)
 
