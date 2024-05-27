@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksa Bubanja</h1>
-<p  align="center"><strong>
+<h4  align="center">
 From my earliest memories, computers have been my playground. What began as a fascination with gaming evolved into a passion for crafting digital experiences. Starting with the foundations of programming, I soon found myself immersed in game development and eventually navigating the vast world of web development.
-</strong></p>
+</h4>
 <p  align="center"><strong>
   A quick learner and committed coder, I embrace each day as an opportunity for growth. Beyond proficiency, I value collaboration and respect for others` time—working seamlessly with senior developers.
 </strong></p>
