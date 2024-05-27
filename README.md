@@ -12,7 +12,9 @@ Every day is a new opportunity to learn and grow, and I seize it with both hands
 Beyond the screen, you'll find me on the basketball or football court, exploring the latest movies, or immersing myself in the world of video games. This blend of enthusiasm, dedication, and a collaborative spirit defines my approach to coding. Let's build something amazing together!
 </h3>
 
+<br />
 - 🌐 [My portfolio website](https://aleksa-bubanja.netlify.app/) - I am making new, better one :)
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
