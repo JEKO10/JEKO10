@@ -13,9 +13,8 @@ Beyond the screen, you'll find me on the basketball or football court, exploring
 </h3>
 
 <br />
-- 🌐 [My portfolio website](https://jeko10.github.io/Portfolio/)
-<br />
-- 📄 [My resume](https://drive.google.com/file/d/1dbI_cvP_G8Rs0YB8VEh0B97XfIG7UuBv/view?usp=sharing)
+- [🌐 My portfolio website](https://jeko10.github.io/Portfolio/)<br />
+- [📄 My resume](https://drive.google.com/file/d/1dbI_cvP_G8Rs0YB8VEh0B97XfIG7UuBv/view?usp=sharing)
 <br />
 
 <h3 align="left">Connect with me:</h3>
