@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aleksa Bubanja</h1>
-<h3  align="center">
-From my earliest memories, computers have been my playground. What began as a fascination with gaming evolved into a passion for crafting digital experiences. Starting with the foundations of programming, I soon found myself immersed in game development and eventually navigating the vast world of web development.
-</h3>
-<h3  align="center">
-  A quick learner and committed coder, I embrace each day as an opportunity for growth. Beyond proficiency, I value collaboration and respect for others` time—working seamlessly with senior developers.
-</h3>
-<h3  align="center">
-Every day is a new opportunity to learn and grow, and I seize it with both hands. My commitment to honing my skills is unwavering—I code daily, driven by the excitement of continuous improvement. Proficiency is just the beginning; I value your time and work harmoniously with senior developers.
-</h3>
-<h3  align="center">  
-Beyond the screen, you'll find me on the basketball or football court, exploring the latest movies, or immersing myself in the world of video games. This blend of enthusiasm, dedication, and a collaborative spirit defines my approach to coding. Let's build something amazing together!
-</h3>
-
-- [🌐 My portfolio website](https://jeko10.github.io/Portfolio/)  
-- [📄 My resume](https://drive.google.com/file/d/1dbI_cvP_G8Rs0YB8VEh0B97XfIG7UuBv/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aleksa-bubanja/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa bubanja" height="30" width="40" /></a>
